@@ -8,10 +8,8 @@
 
 ### What I'm Learning 📖
 - 🐍 Python
-- 🐧 Linux Debian
-- 💾 mySQL
-- 💾 Windows SQL
+- 🐧 Linux Debian (aka ubuntu)
+- 💾 mySQL <supabase>
 - 🌐 HTML
-- 🌐 ASPX
 - #️⃣ Github
 - #️⃣ C++
