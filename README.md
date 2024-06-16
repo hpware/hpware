@@ -14,5 +14,4 @@
 - #️⃣ C++
 
 ### Stats 
-![](https://raw.githubusercontent.com/hpware/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/hpware/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
