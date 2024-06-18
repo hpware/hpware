@@ -4,13 +4,15 @@
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
+### Curently 
+- React Native
+- VueJS
+  aka front end stuff
 
-### What I'm Learning 📖
+### What I'm want to Learn 📖
 - 🐍 Python
-- 🐧 Linux Debian (aka ubuntu)
 - 💾 mySQL <supabase>
-- 🌐 HTML
-- #️⃣ Github
+- 🌐 HTML (Done/?)
 - #️⃣ C++
 
 ### Stats 
