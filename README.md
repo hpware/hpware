@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Site-V2 aka https://hpware.hwtw.cc
-- 💬 Ask me anything here hpware3@gmail.com
+- 💬 Ask me anything here yh@fastmail.tw
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
