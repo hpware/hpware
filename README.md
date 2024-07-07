@@ -1,13 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Site-V2 aka https://hpware.hwtw.cc
+- 🔭 I'm a "very HTML" person
 - 💬 Ask me anything here yh@fastmail.tw
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
 ### Curently 
-- React Native
-- VueJS
-  aka front end stuff
+- HTML https://hwtw.cc
+- VueJS https://hpware.hwtw.cc
+- Expo
 
 ### What I'm want to Learn 📖
 - 🐍 Python
