@@ -1,6 +1,5 @@
 ### Hi there 👋
--  I'm a "very HTML" person
-- 💬 Ask me anything here yh@fastmail.tw
+- 💬 Ask me anything here os@yuanh.xyz or yh@fastmail.tw
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
