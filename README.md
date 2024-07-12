@@ -3,16 +3,15 @@
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
-### Curently 
+### Curent projects 
 - HTML https://hwtw.cc
 - VueJS https://hpware.hwtw.cc
-- Expo
 
 ### What I'm want to Learn 📖
 - 🐍 Python
-- 💾 mySQL <supabase>
-- 🌐 HTML (Done/?)
-- #️⃣ C++
+- 💾 mySQL
+- NextJS
+- Expo
 
 ### Stats 
 <a href="https://github.com/hpware">
