@@ -5,7 +5,7 @@
 
 ### Curent projects 
 - HTML https://hwtw.cc
-- VueJS https://yuanh.xyz
+- VueJS https://v2.yuanh.xyz
 
 ### What I'm want to Learn 📖
 - 🐍 Python
