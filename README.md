@@ -16,4 +16,7 @@
 ### Stats 
 <a href="https://github.com/hpware">
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/hpware">
+  <img src="https://github.com/hpware/gitstats/blob/master/generated/languages.svg#gh-dark-mode-only"
 </a>
