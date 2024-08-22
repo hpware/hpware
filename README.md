@@ -1,9 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
+
 ### Hi there 👋
 - 💬 Ask me anything here wu@yuanhau.com or yh@fastmail.tw
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
 
 ### Curent projects (maybe)
 - HTML https://hwtw.cc
