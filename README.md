@@ -3,7 +3,7 @@
 - 📫 How to reach me: Look at Bio!
 - 😄 Pronouns: he/him
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=Touch+Grass)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+dont't+know+what+I'm+doing)](https://git.io/typing-svg)
 
 ### Curent projects 
 - HTML https://hwtw.cc
