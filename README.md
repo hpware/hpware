@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 💬 Ask me anything here wu@yuanhau.com or yh@fastmail.tw
-- 📫 How to reach me: Look at Bio!
+- 📫 How to reach me: Email yh@fastmail.tw
 - 😄 Pronouns: he/him
 
 ### Curent projects (maybe)
