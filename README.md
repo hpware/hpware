@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
 
 ### Hi there 👋
-- 💬 Ask me anything here wu@yuanhau.com or yh@fastmail.tw
-- 📫 How to reach me: Email yh@fastmail.tw
+- 📫 How to reach me:
+  1. Email wu@yuanhau.com or yh@fastmail.tw
+  2. Web: https://hwtw.cc/
+  3. Signal: yhw.15
 - 😄 Pronouns: he/him
+- Uses VS Code and Vim (Somewhat of a vim user)
 
 ### Curent projects (maybe)
 - HTML https://hwtw.cc
