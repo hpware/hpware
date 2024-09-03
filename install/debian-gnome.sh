@@ -3,8 +3,8 @@
 echo Installing Stuff...
 sudo dpkg --add-architecture i386 
 sudo apt update
-echo Installing Chewing Python3 Docker Curl Wget Vim and Nvim
-sudo apt install curl wget ibus-chewing python3 python3-pip docker.io docker-compose gnome-tweaks vim neovim -y 
+echo Installing Chewing Python3 Docker Curl Wget Vim Snap and Nvim
+sudo apt install curl wget ibus-chewing python3 python3-pip docker.io docker-compose gnome-tweaks vim neovim snap -y 
 sudo mkdir -pm755 /etc/apt/keyrings
 sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
@@ -27,6 +27,10 @@ cd ~
 echo Installing Google Chrome
 curl -L https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb --output GoogleChrome.deb
 sudo dpkg -i GoogleChrome.deb
+echo Installing Spotify, Discord, And VS Code
+sudo snap install spotfiy
+sudo snap install discord
+sudo snap install code --classic
 echo Running Speedtest
 speedtest
 echo Change Mouse Cursor via gnome-tweaks
