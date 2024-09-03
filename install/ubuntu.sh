@@ -16,3 +16,5 @@ cd ~
 curl https://desktop.line-scdn.net/win/new/LineInst.exe --output LineInst.exe
 wine LineInst.exe
 echo Installed!
+echo Running Speedtest
+speedtest
