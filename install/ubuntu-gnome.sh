@@ -11,7 +11,7 @@ curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.
 sudo apt update
 sudo apt install --install-recommends winehq-staging -y
 sudo add-apt-repository universe
-sudo apt install libfuse2t64 speedtest -y
+sudo apt install libfuse2t64 speedtest speedtest-cli -y
 cd ~
 curl https://desktop.line-scdn.net/win/new/LineInst.exe --output LineInst.exe
 wine LineInst.exe
