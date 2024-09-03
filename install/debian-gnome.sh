@@ -11,7 +11,7 @@ curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.
 sudo apt update
 sudo apt install --install-recommends winehq-staging -y
 sudo add-apt-repository universe
-sudo apt install libfuse2t64 speedtest -y
+sudo apt install libfuse2t64 speedtest speedtest-cli -y
 cd ~
 curl https://desktop.line-scdn.net/win/new/LineInst.exe --output LineInst.exe
 wine LineInst.exe
@@ -22,4 +22,6 @@ curl -L https://github.com/ful1e5/Bibata_Cursor/releases/download/v2.0.7/Bibata-
 tar -xJf Bibata-Original-Ice.tar.xz
 mv Bibata-Original-Ice ~/.icons
 cd ~
+echo Running Speedtest
+speedtest
 echo Change Mouse Cursor via gnome-tweaks
