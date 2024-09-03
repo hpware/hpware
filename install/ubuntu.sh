@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Installing Stuff...
 sudo dpkg --add-architecture i386 
 sudo apt update
