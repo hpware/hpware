@@ -28,7 +28,7 @@ echo Installing Google Chrome
 curl -L https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb --output GoogleChrome.deb
 sudo dpkg -i GoogleChrome.deb
 echo Installing Spotify, Discord, And VS Code
-sudo snap install spotfiy
+sudo snap install spotify
 sudo snap install discord
 sudo snap install code --classic
 echo Running Speedtest
