@@ -22,4 +22,6 @@ curl -L https://github.com/ful1e5/Bibata_Cursor/releases/download/v2.0.7/Bibata-
 tar -xJf Bibata-Original-Ice.tar.xz
 mv Bibata-Original-Ice ~/.icons
 cd ~
+echo Running Speedtest
+speedtest
 echo Change Mouse Cursor via gnome-tweaks
