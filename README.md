@@ -7,6 +7,7 @@
   3. Signal: https://yuanhau.com/signal or yuanhau.01
 - 😄 Pronouns: he/him
 - Uses VS Code and Vim (Somewhat of a vim user)
+- ZeroDay [https://zeroday.hitcon.com/user/hw49](https://zeroday.hitcon.org/user/hw49)
 
 ### Curent projects (maybe)
 - HTML https://hwtw.cc
