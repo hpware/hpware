@@ -13,7 +13,7 @@
 - HTML https://hwtw.cc
 - Is this mailing service online? https://isthismailingserviceonline.hwtw.cc/ or https://github.com/hpware/isthismailingserviceonline
 - Linux Install Scripts https://yuanhau.com/linux-install-scripts
-- AdGuard Home Block lists https://github.com/hpware/adguard-block-lists
+- AdGuard Home Block lists https://github.com/hpware/adguard-block-list
 
 ### What I'm want to Learn 📖
 - 🐍 Python
