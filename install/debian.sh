@@ -13,6 +13,13 @@ echo Installing Wine
 sudo apt install --install-recommends winehq-staging -y
 sudo add-apt-repository universe
 sudo apt install libfuse2t64 speedtest-cli -y
+echo Download the Mullvad signing key
+sudo curl -fsSLo /usr/share/keyrings/mullvad-keyring.asc https://repository.mullvad.net/deb/mullvad-keyring.asc
+echo Add the Mullvad repository server to apt
+echo "deb [signed-by=/usr/share/keyrings/mullvad-keyring.asc arch=$( dpkg --print-architecture )] https://repository.mullvad.net/deb/stable $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/mullvad.list
+echo Installing the package
+sudo apt update
+sudo apt install mullvad-vpn -y
 cd ~
 curl https://desktop.line-scdn.net/win/new/LineInst.exe --output LineInst.exe
 wine LineInst.exe
