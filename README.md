@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
 
 ### Hi there 👋
-- 📫 How to reach me:
+- How to reach me:
   1. Email hw@yuanhau.com or yh@fastmail.tw
   2. Web: https://hwtw.cc/ or https://yuanhau.com/
   3. Signal: https://yuanhau.com/signal or yuanhau.01
-- 😄 Pronouns: he/him
-- Uses VS Code and Vim (Somewhat of a vim user)
-- ZeroDay https://yuanhau.com/zd-report
+- Pronouns: he/him
+- Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
 
 ### Curent projects (maybe)
 - VueJS https://hwtw.cc
@@ -18,8 +17,8 @@
 - Site-V2 https://hpware.hwtw.cc (Inactive)
 - TestConnectCenter https://testconnectcenter.azurewebsites.net 
 ### What I'm want to Learn 📖
-- 🐍 Python
-- 💾 mySQL
+- Python
+- mySQL
 - NextJS
 - Expo
 - PHP?????
