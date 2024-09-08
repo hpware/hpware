@@ -10,7 +10,7 @@
 - ZeroDay https://yuanhau.com/zd-report
 
 ### Curent projects (maybe)
-- VueJS https://hwtwcc-vue.vercel.app/ (A remade of the current hwtw.cc)
+- VueJS https://hwtw.cc
 - Is this mailing service online? https://isthismailingserviceonline.hwtw.cc/ or https://github.com/hpware/isthismailingserviceonline
 - Linux Install Scripts https://yuanhau.com/linux-install-scripts
 - AdGuard Home Block lists https://github.com/hpware/adguard-block-list
