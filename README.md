@@ -11,10 +11,12 @@
 
 ### Curent projects (maybe)
 - VueJS https://hwtw.cc
-- Is this mailing service online? https://isthismailingserviceonline.hwtw.cc/ or https://github.com/hpware/isthismailingserviceonline
 - Linux Install Scripts https://yuanhau.com/linux-install-scripts
 - AdGuard Home Block lists https://github.com/hpware/adguard-block-list
-
+### Past Projects (I guess)
+- HTML https://old.hwtw.cc (Inactive)
+- Site-V2 https://hpware.hwtw.cc (Inactive)
+- TestConnectCenter https://testconnectcenter.azurewebsites.net 
 ### What I'm want to Learn 📖
 - 🐍 Python
 - 💾 mySQL
