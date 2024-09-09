@@ -7,6 +7,7 @@
   3. Signal: https://yuanhau.com/signal or yuanhau.01
 - Pronouns: he/him
 - Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
+- Self hosted Gitea Server https://git.hwtw.cc
 
 ### Curent projects (maybe)
 - VueJS https://hwtw.cc
