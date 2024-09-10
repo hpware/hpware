@@ -10,6 +10,7 @@
 - Self hosted Gitea Server https://git.hwtw.cc
 
 ### Curent projects (maybe)
+- Site V3 https://yuanh.xyz
 - VueJS https://hwtw.cc
 - Linux Install Scripts https://yuanhau.com/linux-install-scripts
 - AdGuard Home Block lists https://github.com/hpware/adguard-block-list
