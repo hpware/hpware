@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I+don't+know+what+I'm+doing)](https://git.io/typing-svg)
 
-### Hi there 👋
+### Hi there
 - How to reach me:
   1. Email hw@yuanhau.com or yh@fastmail.tw
   2. Web: https://hwtw.cc/ or https://yuanhau.com/
