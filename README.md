@@ -9,15 +9,8 @@
 - Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
 - Self hosted Gitea Server https://git.hwtw.cc
 
-### Curent projects (maybe)
-- Site V3 https://yuanh.xyz
-- VueJS https://hwtw.cc
-- Linux Install Scripts https://yuanhau.com/linux-install-scripts
-- AdGuard Home Block lists https://github.com/hpware/adguard-block-list
-### Past Projects (I guess)
-- HTML https://old.hwtw.cc (Inactive)
-- Site-V2 https://hpware.hwtw.cc (Inactive)
-- TestConnectCenter https://testconnectcenter.azurewebsites.net 
+### Curent projects 
+You can now see it here: https://yuanh.xyz/projects
 ### What I'm want to Learn 📖
 - Python
 - mySQL
