@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I'm+now+a+Vue+Developer,+I+guess)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I'm+still+don't+count+as+a+developer)](https://git.io/typing-svg)
 
 ### Hi there
 - How to reach me:
