@@ -1,0 +1,21 @@
+# Local to Outside (wtf)
+||wifi.h-w.i234.me^
+||router. local^
+# Allow
+@@||prohashing.com
+@@||nicehash.com
+@@||104.21.61.81
+@@||172.65.223.147
+@@||172.65.200.133
+@@||104.17.254.46
+@@||178.128.242.134
+@@||199.247.27.41
+@@||url.zip
+# 中國的垃圾企業
+||www.eztravel.com.tw
+||trip.com
+# Line Block
+||ad.line-scdn.net^
+||a.line.me^
+# PostHog
+@@||us.posthog.com^
