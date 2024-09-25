@@ -3,7 +3,7 @@
 ### Hi there
 - How to reach me:
   1. Email hw@yuanhau.com or yh@fastmail.tw
-  2. Web: https://hwtw.cc/ or https://yuanh.xyz
+  2. Web: https://yuanh.xyz
   3. Signal: https://yuanhau.com/signal or yuanhau.01
 - Pronouns: he/him
 - Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
