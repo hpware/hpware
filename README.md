@@ -16,8 +16,8 @@ You can now see it here: https://yuanh.xyz/projects
 - mySQL
 - NextJS
 - Expo
-- PHP?????
-
+### Discord 
+[![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 ### Stats 
 <a href="https://github.com/hpware">
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
