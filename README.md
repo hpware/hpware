@@ -6,7 +6,8 @@
   2. Web: https://yuanh.xyz
   3. Signal: https://yuanhau.com/signal or yuanhau.01
 - Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
-- Self hosted Gitea Server https://git.hwtw.cc
+- Self hosted Gitea Server  https://git.hwtw.cc
+- Vite is awesome!
 
 ### Curent projects & Wants to learn stuff
 You can now see it here: https://yuanh.xyz/ or https://yuanh.xyz/projects
