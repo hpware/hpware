@@ -7,7 +7,7 @@
   3. Signal: https://yuanhau.com/signal or yuanhau.01
 - Uses VS Code, Vim (Somewhat of a vim user) and Jetbrains Webstorm
 - Self hosted Gitea Server  https://git.yuanhau.com
-- YPT: https://yuanh.xyz/go?l=ypt
+- YPT: https://yuanh.xyz/go?l=ypt (密：12345678
 
 ### Curent projects & Wants to learn stuff
 You can now see it here: https://yuanh.xyz/ or https://yuanh.xyz/projects
