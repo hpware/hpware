@@ -15,5 +15,6 @@ You can now see it here: https://yuanh.xyz/ or https://yuanh.xyz/projects
 ### Discord 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 ### Stats 
-[![GitHub Streak](https://github-streak-stats.yuanhau.com?user=hpware&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-streak-stats.yuanhau.com?user=hpware&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<br/>
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />&nbsp;&nbsp;<img src="https://github.com/hpware/gitstats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
