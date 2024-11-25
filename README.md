@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A70B7&width=435&lines=I'm+still+don't+count+as+a+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)
 ### 嗨～
 我是吳元皓，我現在算是一個五專生。
 
