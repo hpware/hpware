@@ -2,7 +2,7 @@
 ### 嗨～
 我是吳元皓，我現在算是一個五專生。
 
-更多關於我: https://yuanh.xyz 或 https://mdviewer.yuanhau.com/?u=https://raw.githubusercontent.com/hpware/hpware/refs/heads/main/about.md
+更多關於我: https://yuanh.xyz 或 https://mdviewer.yuanhau.com/?u=http://
 
 你可以連絡我的方式有：
   1. Email: hw@yuanhau.com
