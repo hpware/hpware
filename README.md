@@ -2,7 +2,7 @@
 ### 嗨～
 我是吳元皓，我現在是一個高中生。
 
-嘗試寫 Typescript 的 API (並寫第四代的網站)
+嘗試寫 Typescript 的 API (並寫第四(.1)代的網站)
 
 大約在 2025 Q2 上架 到 yuanhau.com
 
