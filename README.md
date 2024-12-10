@@ -16,7 +16,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />&nbsp;&nbsp;
