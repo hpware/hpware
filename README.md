@@ -4,6 +4,8 @@
 
 更多關於我: https://yuanhau.com/about
 
+Donate: https://paypal.me/howardwu16802
+
 你可以連絡我的方式有：
   1. Email: hw@yuanhau.com
   2. Discord: @hwtw
