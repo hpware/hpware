@@ -19,7 +19,3 @@ Donate: https://paypal.me/howardwu16802
 
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />&nbsp;&nbsp;
 <img src="https://github.com/hpware/gitstats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
-
-聖誕節快樂
-
-🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
