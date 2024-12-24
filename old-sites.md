@@ -18,3 +18,7 @@ https://old.hwtw.cc
 https://3002.hwtw.cc
 ## 古人的網站
 https://legacy-net-a3s.pages.dev
+## 初始網頁
+Lander: https://old-hwweb-website.pages.dev/
+
+Wordpress: https://hwweb.i234.me/wordpress
