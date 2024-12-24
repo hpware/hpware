@@ -9,7 +9,7 @@ Donate: https://paypal.me/howardwu16802
 你可以連絡我的方式有：
   1. Email: hw@yuanhau.com
   2. Discord: @hwtw
-  3. 網站：https://yuanhau.com 或 [舊版的網站](https://mdviewer.yuanhau.com/?u=https://raw.githubusercontent.com/hpware/hpware/refs/heads/main/.md)
+  3. 網站：https://yuanhau.com 或 [舊版的網站](https://mdviewer.yuanhau.com/?u=https://raw.githubusercontent.com/hpware/hpware/refs/heads/main/old-sites.md)
   4. Signal: yuanhau.01
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
