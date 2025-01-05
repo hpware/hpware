@@ -6,6 +6,8 @@ You can learn more about me here: https://yuanhau.com/about (中文)
 
 Donate: https://paypal.me/howardwu16802
 
+小帳: [@static-content](https://github.com/static-content)
+
 Here are all the ways you can contact me:
   1. Email: hw@yuanhau.com
   2. Discord: @hwtw
