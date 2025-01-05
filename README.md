@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)
-### 嗨～
-我是吳元皓，我現在是一個高中生。
+### Hi!
+I'm 吳元皓, currently a high school student.
 
-更多關於我: https://yuanhau.com/about
+You can learn more about me here: https://yuanhau.com/about (中文)
 
 Donate: https://paypal.me/howardwu16802
 
-你可以連絡我的方式有：
+Here are all the ways you can contact me:
   1. Email: hw@yuanhau.com
   2. Discord: @hwtw
-  3. 網站：https://yuanhau.com 或 [舊版的網站](https://mdviewer.yuanhau.com/?u=https://cdn.jsdelivr.net/gh/hpware/hpware@main/old-sites.md)
-  4. Signal: yuanhau.01
+  3. Signal: yuanhau.01
+  4. 網站：https://yuanhau.com 或 [舊版的網站](https://mdviewer.yuanhau.com/?u=https://cdn.jsdelivr.net/gh/hpware/hpware@main/old-sites.md)
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 
