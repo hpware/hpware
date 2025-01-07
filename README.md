@@ -4,7 +4,7 @@ I'm 吳元皓, currently a high school student.
 
 You can learn more about me here: https://yuanhau.com/about (中文)
 
-Donate: https://paypal.me/howardwu16802
+Donate: https://yhw.tw/paypal
 
 小帳: [@static-content](https://github.com/static-content)
 
@@ -12,7 +12,7 @@ Here are all the ways you can contact me:
   1. Email: hw@yuanhau.com
   2. Discord: @hwtw
   3. Signal: yuanhau.01
-  4. 網站：https://yuanhau.com 或 [舊版的網站](https://mdviewer.yuanhau.com/?u=https://cdn.jsdelivr.net/gh/hpware/hpware@main/old-sites.md)
+  4. 網站：https://yuanhau.com 或 [舊版的網站](https://yhw.tw/gXKfc)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
