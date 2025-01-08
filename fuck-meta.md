@@ -1,3 +1,9 @@
+# Bluesky
+之後我的文，會在 @yuanhau.com 上
+
+https://yhw.tw/bluesky
+# 也可以查看我的部落格
+https://yuanhau.com/posts/
 # Meta 白癡的決定
 因為Meta做了一堆白癡的決定，我選擇移除在我網站最顯眼的按鈕
 
@@ -6,13 +12,5 @@
 IG: https://yhw.tw/ig
 
 Threads: https://yhw.tw/threads
-
-### 比較不推薦的
+### 更不推薦的
 x: https://x.com/ictechz
-
-# Bluesky
-之後我的文，會在 @yuanhau.com 上
-
-https://yhw.tw/bluesky
-# 也可以查看我的部落格
-https://yuanhau.com/posts/
