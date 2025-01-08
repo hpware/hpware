@@ -13,6 +13,7 @@ Here are all the ways you can contact me:
   2. Discord: @hwtw
   3. Signal: yuanhau.01
   4. 網站：https://yuanhau.com 或 [舊版的網站](https://yhw.tw/gXKfc)
+  5. Bluesky: [@yuanhau.com](https://yhw.tw/bluesky)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
