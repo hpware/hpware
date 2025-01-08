@@ -9,7 +9,7 @@ Donate: https://yhw.tw/paypal
 小帳: [@static-content](https://github.com/static-content)
 
 Here are all the ways you can contact me:
-  1. Email: hw@yuanhau.com
+  1. Email: hw@yuanhau.com or howard.wu@msa.hinet.net
   2. Discord: @hwtw
   3. Signal: yuanhau.01
   4. 網站：https://yuanhau.com 或 [舊版的網站](https://yhw.tw/gXKfc)
