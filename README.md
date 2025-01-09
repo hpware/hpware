@@ -10,8 +10,8 @@ Donate: https://yhw.tw/paypal
 
 Here are all the ways you can contact me:
   1. Email: hw@yuanhau.com
-  2. Discord: @hwtw
-  3. Signal: yuanhau.01
+  2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
+  3. Signal: [yuanhau.01](https://yhw.tw/signal)
   4. 網站：https://yuanhau.com 或 [舊版的網站](https://yhw.tw/gXKfc)
   5. Bluesky: [@yuanhau.com](https://yhw.tw/bluesky)
 
