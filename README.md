@@ -22,6 +22,7 @@ Here are all the ways you can contact me:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=U087ATD163V&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />&nbsp;&nbsp;
 <img src="https://github.com/hpware/gitstats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
