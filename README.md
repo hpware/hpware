@@ -1,5 +1,5 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)-->
-![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today) ![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d) ![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)
+![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today)&nbsp;![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d)&nbsp;![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)
 ### Hi!
 I'm 吳元皓, currently a high school student.
 
@@ -8,8 +8,6 @@ You can learn more about me here: https://yuanhau.com/about (中文)
 Donate: https://yhw.tw/paypal
 
 Codecrafters: https://yhw.tw/codecrafters
-
-小帳: [@static-content](https://github.com/static-content)
 
 Here are all the ways you can contact me:
   1. Email: hw@yuanhau.com
