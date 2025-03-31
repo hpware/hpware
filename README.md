@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)-->
 <!--![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today)&nbsp;![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d)&nbsp;![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)-->
-Currently the wakatime data is not available. Wanting for the HackClub team to add the new apis back.
+!!!! 重要訊息：請勿在 Signal 傳訊息，我 100% 不會看到，我要等到手機沒有被駭疑慮再重開 !!!!
 
 Websites: 
 中文: https://yuanhau.com 
@@ -11,7 +11,7 @@ Hi. I'm Howard(吳元皓), currently a Taiwanese first grade high school student
 Here are some plaforms where you can **try** to contact me, I will **maybe** respond within a week:
   1. Email: [hw@yuanhau.com](mailto:hw@yuanhau.com)
   2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
-  3. Signal: [yuanhau.01](https://yhw.tw/signal)
+  3. Signal: [yuanhau.01](https://yhw.tw/nosignal) 
   4. Instagram: [yhw_tw](https://yhw.tw/ig)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
