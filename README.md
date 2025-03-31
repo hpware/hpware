@@ -2,9 +2,9 @@
 <!--![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today)&nbsp;![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d)&nbsp;![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)-->
 !!!! 重要訊息：請勿在 Signal 傳訊息，我 100% 不會看到，我要等到手機沒有被駭疑慮再重開 !!!!
 
-Websites: 
-中文: https://yuanhau.com 
-English: https://intl.yuanhau.com
+Here is my website: https://yuanhau.com/
+
+Here is what I've done/built @ Hack Club: https://yuanhau.com/hackclub
 
 Hi. I'm Howard(吳元皓), currently a Taiwanese first grade high school student (which is second grade in the US for some reason). I'm a software developer, I mostly work on Javascript projects, like my peronal website that has four (.1) verisons. I also use docker way too much (or Debian), it is kinda my thing as I used the software since around 2019, and relying on stack overflow for answers, and I think this is what brought me here, me wanting to be a software developer. To building awesome software for people everywhere, however I'm still currently learning on a few languages, like Expo(React Native), Typescript, thats kinda it. The plaforms below is where I interact the most.
 
