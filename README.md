@@ -11,7 +11,7 @@ Hi. I'm Howard(吳元皓), currently a Taiwanese first grade high school student
 Here are some plaforms where you can **try** to contact me, I will **maybe** respond within a week:
   1. Email: [hw@yuanhau.com](mailto:hw@yuanhau.com)
   2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
-  3. Signal: [yuanhau.01](https://yhw.tw/nosignal) 
+  3. Signal: [yuanhau.02(暫)](https://yhw.tw/signal2) 
   4. Instagram: [yhw_tw](https://yhw.tw/ig)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
