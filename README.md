@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)-->
 <!--![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today)&nbsp;![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d)&nbsp;![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)-->
-!!!! 重要訊息：請勿在 Signal 傳訊息，我 100% 不會看到，我要等到手機沒有被駭疑慮再重開 !!!!
+<!--!!!! 重要訊息：請勿在 Signal 傳訊息，我 100% 不會看到，我要等到手機沒有被駭疑慮再重開 !!!!-->
 
 Here is my website: https://yuanhau.com/
 
@@ -16,6 +16,8 @@ Here are some plaforms where you can **try** to contact me, I will **maybe** res
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 <img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd4wm6ggrgpeltkllknel5hewe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)-->
 
