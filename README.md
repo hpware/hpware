@@ -8,6 +8,8 @@ Here is what I've done/built @ Hack Club: https://yuanhau.com/hackclub
 
 Hi. I'm Howard(吳元皓), currently a Taiwanese first grade high school student (which is second grade in the US for some reason). I'm a software developer, I mostly work on Javascript projects, like my peronal website that has four (.1) verisons. I also use docker way too much (or Debian), it is kinda my thing as I used the software since around 2019, and relying on stack overflow for answers, and I think this is what brought me here, me wanting to be a software developer. To building awesome software for people everywhere, however I'm still currently learning on a few languages, like Expo(React Native), Typescript, thats kinda it. The plaforms below is where I interact the most.
 
+My open source projects/code will not be viewable/forbidden to edit by the people listed below: edwardlo12
+
 Here are some plaforms where you can **try** to contact me, I will **maybe** respond within a week:
   1. Email: [hw@yuanhau.com](mailto:hw@yuanhau.com)
   2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
