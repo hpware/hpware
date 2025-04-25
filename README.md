@@ -13,7 +13,7 @@ My open source projects/code will not be viewable/forbidden to edit by the peopl
 Here are some plaforms where you can **try** to contact me, I will **maybe** respond within a week:
   1. Email: [hw@yuanhau.com](mailto:hw@yuanhau.com)
   2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
-  3. Signal: [yuanhau.02(暫)](https://yhw.tw/signal2) 
+  3. Signal: [yuanhau.01](https://yhw.tw/signal) 
   4. Instagram: [yhw_tw](https://yhw.tw/ig)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
