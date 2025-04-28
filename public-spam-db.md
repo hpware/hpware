@@ -9,3 +9,4 @@ Have more? File a pr. (This will have it's own repo soon)
 - *@expertbyseo.com
 - Robin_web@outlook.com
 - viveksinghseobusiness@hotmail.com
+- palseo78789@outlook.com
