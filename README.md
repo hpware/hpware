@@ -1,26 +1,16 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)-->
-<!--![](https://waka.hackclub.com/api/badge/U087ATD163V/interval:today?label=today)&nbsp;![](https://waka.hackclub.com/api/badge/U087ATD163V/U087ATD163V/interval:30_days?label=last%2030d)&nbsp;![](https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U087ATD163V/interval:all_time&label=All%20time&color=blue)-->
-<!--!!!! 重要訊息：請勿在 Signal 傳訊息，我 100% 不會看到，我要等到手機沒有被駭疑慮再重開 !!!!-->
+
+# Hi. I'm Howard 吳元皓.
+A first grade taiwanese high school student (or second in the US or other places ig). I'm a web dev (or a frontend dev) & a server nerd. I'm currently work on projects like Shlink Client for iOS (as the thing is missing there) & my mom's kinda random website & a url shortener (also my personal website counts right??). I also don't like Ubuntu Core as the reasons stated [here](https://www.threads.com/@yhw_tw/post/DJEqEwQpEmO), and mainly use Debian & Ubuntu & some times tries and fails to use a different distro. I am also in HackClub, here is what I have done there [here is the link](https://yuanhau.com/hackclub) or contact me there [slack](https://slack.com/app_redirect?channel=U087ATD163V). Like other Taiwanese, I'm active at Threads (The shitty X alternative), here is my [Main Account](https://threads.net/@yhw_tw) & my [Second Account](https://threads.net/@hao._526). And for other comms, I also have [Discord](https://discord.com/users/918723093646684180), [Bluesky](https://bsky.app/profile/yuanhau.com), [Instagram](https://instagram.com/yhw_tw), [Signal](https://yhw.tw/signal), [Twitter](https://twitter.com/ictechz), [YouTube](https://youtube.com/@號)... and more?
 
 Here is my website: https://yuanhau.com/
 
-Here is what I've done/built @ Hack Club: https://yuanhau.com/hackclub
-
-Hi. I'm Howard(吳元皓), currently a Taiwanese first grade high school student (which is second grade in the US for some reason). I'm a software developer, I mostly work on Javascript projects, like my peronal website that has four (.1) verisons. I also use docker way too much (or Debian), it is kinda my thing as I used the software since around 2019, and relying on stack overflow for answers, and I think this is what brought me here, me wanting to be a software developer. To building awesome software for people everywhere, however I'm still currently learning on a few languages, like Expo(React Native), Typescript, thats kinda it. The plaforms below is where I interact the most.
-
-My open source projects/code will not be viewable/forbidden to edit by the people listed below: edwardlo12
-
-Here are some plaforms where you can **try** to contact me, I will **maybe** respond within a week:
-  1. Email: [hw@yuanhau.com](mailto:hw@yuanhau.com)
-  2. Discord: [@hwtw](https://discord.com/users/918723093646684180)
-  3. Signal: [yuanhau.01](https://yhw.tw/signal) 
-  4. Instagram: [yhw_tw](https://yhw.tw/ig)
-
+# Stuff
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
-<img src="https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+![Github Overview](https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd4wm6ggrgpeltkllknel5hewe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<!--
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd4wm6ggrgpeltkllknel5hewe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)-->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)-->
 
