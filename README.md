@@ -1,11 +1,15 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=yuanhau.com)](https://git.io/typing-svg)-->
-
 # Hi. I'm Howard.
-A first grade taiwanese high school student (or second in the US or other places ig). I'm a web dev (or a frontend dev) & a server nerd. I'm currently work on projects like Shlink Client for iOS (as the thing is missing there) & my mom's kinda random website & a url shortener (also my personal website counts right??). I also don't like Ubuntu Core as the reasons stated [here](https://www.threads.com/@yhw_tw/post/DJEqEwQpEmO), and mainly use Debian & Ubuntu & some times tries and fails to use a different distro. I am also in HackClub, here is what I have done there [here is the link](https://yuanhau.com/hackclub) or contact me there [slack](https://slack.com/app_redirect?channel=U087ATD163V). Like other Taiwanese, I'm active at Threads (The shitty X alternative), here is my [Main Account](https://threads.net/@yhw_tw) & my [Second Account](https://threads.net/@hao._526). And for other comms, I also have [Discord](https://discord.com/users/918723093646684180), [Bluesky](https://bsky.app/profile/yuanhau.com), [Instagram](https://instagram.com/yhw_tw), [Signal](https://yhw.tw/signal), [Twitter](https://twitter.com/ictechz), [YouTube](https://youtube.com/@號)... and more?
+A second grade taiwanese high school student (or third in the US or other places ig). I'm a web dev (or a frontend dev) & a server nerd. I'm in HackClub, here is what I have done there [here is the link](https://v4-1-3.yuanhau.com/hackclub) or contact me there [slack](https://slack.com/app_redirect?channel=U087ATD163V).
 
-Oh and also my chinese name is: 吳元皓 that's where my domain came from, as my GitHub account username? idk, I think I used hp + ware?
-
-Here is my website: https://yuanhau.com/
+## Want to talk to me?
+Here is my socials!
+-[Discord](https://discord.com/users/918723093646684180)
+- [Bluesky](https://bsky.app/profile/yuanhau.com)
+- [Instagram](https://instagram.com/yhw_tw)
+- Signal: yhpx.01
+- [Twitter](https://twitter.com/ictechz)
+- [YouTube](https://youtube.com/@號)
+- Website: https://yuanhau.com/
 
 # Data
 [![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
