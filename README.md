@@ -2,8 +2,8 @@
 A second grade taiwanese high school student (or third in the US or other places ig). I'm a web dev (or a frontend dev) & a server nerd. I'm in HackClub, here is what I have done there [here is the link](https://v4-1-3.yuanhau.com/hackclub) or contact me there [slack](https://slack.com/app_redirect?channel=U087ATD163V).
 
 ## Want to talk to me?
-Here is my socials!
--[Discord](https://discord.com/users/918723093646684180)
+Here are my socials!
+- [Discord](https://discord.com/users/918723093646684180)
 - [Bluesky](https://bsky.app/profile/yuanhau.com)
 - [Instagram](https://instagram.com/yhw_tw)
 - Signal: yhpx.01
