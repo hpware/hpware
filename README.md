@@ -8,17 +8,9 @@ Here are my socials!
 - Signal: yhpx.01
 - [Twitter](https://twitter.com/ictechz)
 - [YouTube](https://youtube.com/@號)
-- Website: https://hpware.me/
+- dl, pl, vl site: https://logs.yhw.tw/
+- Personal site: https://hpware.me (broken)
 
 # Data
-[![GitHub Streak](https://streak-stats.demolab.com?user=hpware&theme=dark&hide_border=true&locale=zh_Hant&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/918723093646684180)](https://discord.com/users/918723093646684180)
 ![Github Overview](https://github.com/hpware/gitstats/blob/master/generated/overview.svg#gh-dark-mode-only)
-
-<!--
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fd4wm6ggrgpeltkllknel5hewe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)-->
-
-
-<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=U087ATD163V&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)-->
-
