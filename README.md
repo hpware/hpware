@@ -3,12 +3,11 @@ A second grade taiwanese high school student (or third in the US or other places
 
 ## Want to talk to me?
 Here are my socials!
-- [Discord](https://discord.com/users/918723093646684180)
+- [Discord 堤斯闊](https://discord.com/users/918723093646684180)
 - [Hackclub Slack](https://slack.com/app_redirect?channel=U087ATD163V)
-- [Twitter](https://twitter.com/ictechz)
+- [Twitter (現在叫 X?)](https://twitter.com/ictechz)
 - Signal: yhpx.01
-- dl, pl, vl site: https://logs.yhw.tw/ (in dev)
-- Personal site: https://hpware.me (broken)
+- Personal site: https://yuanhau.com
 - Email: large.hook7650@988080.xyz (you send spam, you get logged here: https://spam.pleaseuse.me)
 
 # Data
